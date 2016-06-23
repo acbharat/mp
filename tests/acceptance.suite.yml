@@ -8,6 +8,6 @@ class_name: AcceptanceTester
 modules:
     enabled:
         - PhpBrowser:
-            url: http://qa.mamasandpapas.com/
+            url: http://qatest.mamasandpapas.ae/
         - \Helper\Acceptance
         - Asserts
